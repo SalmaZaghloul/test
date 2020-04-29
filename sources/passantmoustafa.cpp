@@ -1,4 +1,4 @@
-#include "/home/passant/test/headers/passantmoustafa.h"
+#include "passantmoustafa.h"
 void passant_727()
 {
 	cout<< "my name is passant moustafa" <<endl ;
