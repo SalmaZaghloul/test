@@ -1,5 +1,5 @@
-#include"/headers/martina.h"
+#include"/home/martinamichelcx/test/headers"
 void martinamichelcx(){
-	printf("Martina Michel Muawad\n");
-	printf("martinamichelcx@gmail.com\n");
+	cout<<"Martina Michel Muawad\n";
+	cout<<"martinamichelcx@gmail.com\n";
 }
