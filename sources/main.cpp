@@ -3,6 +3,6 @@
 
 int main (){
 	
-	passant-727();
+	passant_727();
 	martinamichelcx();
 }
