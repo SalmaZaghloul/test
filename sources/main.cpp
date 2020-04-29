@@ -1,5 +1,5 @@
-#include "/headers/passantmoustafa.h"
-#include "/headers/martina.h"
+#include "test/headers/passantmoustafa.h"
+#include "test/headers/martina.h"
 
 int main (){
 	
